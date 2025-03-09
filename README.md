@@ -77,7 +77,7 @@ For major changes, please open an issue first to discuss your ideas.
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/Anshkabra2012/github-explorer/blob/main/LICENSE) file for more details.
+This project is licensed under the **UNLICENSE**. See the [LICENSE](https://github.com/Anshkabra2012/github-explorer/blob/main/LICENSE) file for more details.
 
 ## Contact
 
