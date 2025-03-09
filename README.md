@@ -2,11 +2,10 @@
 
 <div align="center">
   
-  [![GitHub stars](https://img.shields.io/github/stars/Anshkabra2012/github-explorer?style=social)](https://github.com/Anshkabra2012/github-explorer/stargazers)  
-  [![GitHub forks](https://img.shields.io/github/forks/Anshkabra2012/github-explorer?style=social)](https://github.com/Anshkabra2012/github-explorer/network)  
+  [![GitHub stars](https://img.shields.io/github/stars/Anshkabra2012/github-explorer?style=for-the-badge)](https://github.com/Anshkabra2012/github-explorer/stargazers)  
+  [![GitHub forks](https://img.shields.io/github/forks/Anshkabra2012/github-explorer?style=for-the-badge)](https://github.com/Anshkabra2012/github-explorer/network)  
   [![GitHub license](https://img.shields.io/github/license/Anshkabra2012/github-explorer)](https://github.com/Anshkabra2012/github-explorer/blob/main/LICENSE)  
   [![GitHub issues](https://img.shields.io/github/issues/Anshkabra2012/github-explorer)](https://github.com/Anshkabra2012/github-explorer/issues)  
-  [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/Anshkabra2012/github-explorer/ci.yml?branch=main)](https://github.com/Anshkabra2012/github-explorer/actions)
   
 </div>
 
