@@ -4,7 +4,7 @@
   
   [![GitHub stars](https://img.shields.io/github/stars/Anshkabra2012/github-explorer?style=flat)](https://github.com/Anshkabra2012/github-explorer/stargazers)  
   [![GitHub forks](https://img.shields.io/github/forks/Anshkabra2012/github-explorer?style=flat)](https://github.com/Anshkabra2012/github-explorer/network)  
-  ![GitHub License](https://img.shields.io/github/license/anshkabra2012/github-explorer) 
+  ![GitHub License](https://img.shields.io/github/license/polarxcised/github-explorer) 
   [![GitHub issues](https://img.shields.io/github/issues/Anshkabra2012/github-explorer)](https://github.com/Anshkabra2012/github-explorer/issues)  
   
 </div>
