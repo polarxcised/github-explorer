@@ -146,7 +146,7 @@ function ResultView({ data }) {
     );
 }
 function Footer() {
-    return (<footer className="footer"><p>© {new Date().getFullYear()} GitHub Explorer | Built by Ansh Kabra</p></footer>);
+    return (<footer className="footer"><p>© {new Date().getFullYear()} GitHub Explorer | Built by polarxcised</p></footer>);
 }
 function App() {
     const [token, setToken] = useState('');
